@@ -1,4 +1,4 @@
-<img width="1774" height="887" alt="ChatGPT Image Jul 17, 2026, 05_00_46 PM" src="https://github.com/user-attachments/assets/c7319498-ea11-49bf-9a97-b60c56552da3" />
+<img width="1983" height="793" alt="ChatGPT Image Jul 17, 2026, 05_07_34 PM" src="https://github.com/user-attachments/assets/237e8cf8-8220-466e-9630-f38e56333bb5" />
 
 # 🛒 Online Retail Sales Analysis using SQL
 
